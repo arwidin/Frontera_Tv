@@ -1,0 +1,53 @@
+#EXTM3U
+
+# --- ULUSAL ---
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" group-title="Ulusal",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" group-title="Ulusal",Show TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="Ulusal",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" group-title="Ulusal",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW" group-title="Ulusal",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+# --- HABER ---
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" group-title="Haber",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+# --- SPOR ---
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" group-title="Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+# --- MUZIK ---
+#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" tvg-name="PowerTürk TV" group-title="Müzik",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr@SD" tvg-name="Dream Türk" group-title="Müzik",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTV Biggest Pop" group-title="Müzik",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false
+
+#EXTINF:-1 tvg-id="KralPopTV.tr@SD" tvg-name="Kral Pop TV" group-title="Müzik",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.tr@SD" tvg-name="Power TV" group-title="Müzik",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk" group-title="Müzik",Number 1 Türk
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr@SD" tvg-name="TRT Müzik" group-title="Müzik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
